@@ -14,4 +14,6 @@ git commit -m 'deploy'
 
 git push -f git@github.com:DragotaIV/vue_posts.git main:gh-pages
 
+
+
 cd -
